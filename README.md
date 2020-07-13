@@ -1,3 +1,7 @@
+# Note
+
+The original instabot.py github was taken down, and I'm not sure why. I'm just reposting for posterity's sake. This code is based on 2019-01-24, probably not the most recent. 
+
 # InstaBot
 
 Instabot is a toolkit written in Python for building Instagram bots using the undocumented private API. 
